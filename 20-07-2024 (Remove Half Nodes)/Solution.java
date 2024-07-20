@@ -62,10 +62,7 @@ class TreeUtils {
 
 // Solution class to modify the tree
 
-
-
-
-// this solution class is GFG solution from here
+// --------------------------------------------------(GFG solution from here)-------------------------------------------
 class Solution {
     // Remove nodes with only one child
     Node removeHalfNodes(Node root) {
@@ -83,11 +80,7 @@ class Solution {
         return root;
     }
 }
-// end of GFG solution.......
-
-
-
-
+//---------------------------------------------------------(GFG solution end)-------------------------------------------
 
 // Driver code
 public class Main {
